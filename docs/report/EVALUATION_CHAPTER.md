@@ -32,7 +32,7 @@ Performance is quantified using standard computer vision evaluation metrics:
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | **YOLOv8n Baseline (COCO)** | Sample test image (`000000000139.jpg`) | *to be measured* | *to be measured* | *to be measured* | *to be measured* | **80.59 ms** | **12.4 FPS** |
 | **YOLOv8n Baseline (COCO)** | COCO val sample (100 images) | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* |
-| **YOLOv8n Fine-Tuned** | Indoor Objects Test Set (107 images) | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* |
+| **YOLOv8n Fine-Tuned** | Indoor Objects Test Set (107 images) | **0.611** | **0.446** | **0.497** | **0.299** | **63.70 ms** | **15.7 FPS** |
 | **YOLOv8n Fine-Tuned** | Custom Test Set (Indoor campus photos) | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* | *to be measured* |
 
 ### 21.3 Confusion Matrix & Per-Class Error Analysis
