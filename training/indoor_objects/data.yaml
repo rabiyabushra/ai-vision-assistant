@@ -1,0 +1,20 @@
+# Indoor Objects Detection Dataset (Roboflow)
+# 10 Classes for Assistive Navigation
+
+path: .  # dataset root dir (relative to this file)
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 10
+names:
+  0: door
+  1: cabinetDoor
+  2: refrigeratorDoor
+  3: window
+  4: chair
+  5: table
+  6: cabinet
+  7: couch
+  8: openedDoor
+  9: pole

@@ -1,0 +1,5 @@
+Model,Dataset,Precision,Recall,mAP50,mAP50-95,Inference_Time_CPU_ms,FPS
+YOLOv8n (Pretrained Baseline),Sample Static Image (000000000139.jpg),to be measured,to be measured,to be measured,to be measured,80.59,12.4
+YOLOv8n (Pretrained Baseline),COCO val sample (100 images),to be measured,to be measured,to be measured,to be measured,to be measured,to be measured
+YOLOv8n (Fine-tuned Indoor),Indoor Objects Test (107 images),to be measured,to be measured,to be measured,to be measured,to be measured,to be measured
+YOLOv8n (Fine-tuned Indoor),Custom Test Set (Indoor),to be measured,to be measured,to be measured,to be measured,to be measured,to be measured

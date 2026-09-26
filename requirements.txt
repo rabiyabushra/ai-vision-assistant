@@ -1,0 +1,7 @@
+streamlit>=1.40,<2
+ultralytics>=8.3
+opencv-python>=4.8
+easyocr>=1.7
+pyttsx3>=2.90
+numpy>=1.24
+Pillow>=10

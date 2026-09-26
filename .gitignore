@@ -1,0 +1,36 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.streamlit/
+
+# Model weights (large binaries)
+*.pt
+*.onnx
+!models/README.md
+
+# Large dataset folders
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/coco_sample/*
+!data/coco_sample/.gitkeep
+data/textocr/*
+!data/textocr/.gitkeep
+!data/textocr/README.md
+training/indoor_objects/train/
+training/indoor_objects/valid/
+training/indoor_objects/test/
+training/training_results/*
+!training/training_results/.gitkeep
+!training/training_results/README.md
+
+# Results
+results/*.png
+results/sample_detections/*
+!results/sample_detections/.gitkeep
+results/ocr_examples/*
+!results/ocr_examples/.gitkeep

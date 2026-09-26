@@ -1,0 +1,3 @@
+# Optional voice-command support.
+SpeechRecognition>=3.10
+# PyAudio can be difficult to install on Windows; install it separately only if needed.
