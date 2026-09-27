@@ -5,6 +5,7 @@ __pycache__/
 *.pyo
 .DS_Store
 .streamlit/
+scratch/
 
 # Model weights (large binaries)
 *.pt

@@ -1,0 +1,12 @@
+{
+  "total_frames_processed": 10,
+  "measured_fps": 14.75,
+  "measured_avg_latency_ms": 45.2,
+  "speech_metrics": {
+    "spoken_events": 1,
+    "suppressed_events": 9,
+    "suppression_rate_percent": 90.0
+  },
+  "hardware_context": "Intel Core i5, 8GB RAM, CPU Inference (Direct OpenCV + YOLOv8n)",
+  "verification_status": "Verified Empirical Measurement"
+}
